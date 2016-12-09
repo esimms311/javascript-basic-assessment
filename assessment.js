@@ -148,6 +148,8 @@ return obj;
 }
  }
 
+ //code here
+
 
 // #15 Create a function called outside that takes in a temperature (number), a humidity(number), and a cloudiness(number), in that order. Using the following to return the correct values
 /*
